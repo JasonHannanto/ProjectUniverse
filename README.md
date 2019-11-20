@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Start Up Guide
+(Highly recommend using VSCode editor for this)
+
+1. Clone this repo
+2. Download the "Recommended" version of this -> https://nodejs.org/en/
+3. Open up your terminal
+4. `cd` into the repo folder (go into the repo directory)
+5. run `npm install`
+6. run `npm start`
+7. Go to [http://localhost:3000](http://localhost:3000)
 
 ## Available Scripts
 
